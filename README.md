@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Desde cedo cria de tecnologia!  Me considero curioso e explorador.
+
 Atualmente trabalho como Team Leader Backend, gerenciando e desenvolvendo projetos para a upLexis.
 
 Sou formado como Técnico em Informática pelo Instituto Federal de São Paulo
@@ -24,5 +26,10 @@ Quase 5 anos no mercado de Desenvolvimento de Software.
 
 Tenho bastante experiência com PHP usando Laravel!
   
-Nesse momento estou buscando me envolver em projetos inovadores e com a intenção de desenvolver minha comunicação, se a sua língua não for o PT-BR, podemos conversar em Espanhol ou Inglês também :p 
+Nesse momento estou buscando me envolver em projetos inovadores:p 
+
+Além do Português nativo, consigo me comunicar em Inglês e também em Espanhol.
+
+[Resume](http://mandrago.ddns.net:8081/documents/Resume.pdf)
+
 
