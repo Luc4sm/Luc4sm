@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Desde cedo cria de tecnologia!  Me considero curioso e explorador.
 
-Atualmente trabalho como Team Leader Backend, gerenciando e desenvolvendo projetos para a upLexis.
+Atualmente trabalho como Desenvolvedor PHP Senior, cuidando de alguns projetos para a BlueCoding.
 
 Sou formado como Técnico em Informática pelo Instituto Federal de São Paulo
   e estou matriculado no curso de Sistemas de Informação da Universidade de São Paulo(EACH)
@@ -31,5 +31,3 @@ Nesse momento estou buscando me envolver em projetos inovadores:p
 Além do Português nativo, consigo me comunicar em Inglês e também em Espanhol.
 
 [Resume](http://mandrago.ddns.net:8081/documents/Resume.pdf)
-
-
