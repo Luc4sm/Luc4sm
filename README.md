@@ -26,8 +26,6 @@ Quase 5 anos no mercado de Desenvolvimento de Software.
 
 Tenho bastante experiência com PHP usando Laravel!
   
-Nesse momento estou buscando me envolver em projetos inovadores:p 
+Nesse momento estou buscando me envolver em projetos inovadores e que tenham a ver com empreendedorismo :p 
 
-Além do Português nativo, consigo me comunicar em Inglês e também em Espanhol.
-
-[Resume](http://mandrago.ddns.net:8081/documents/Resume.pdf)
+Além do Português Brasileiro como língua materna, consigo me comunicar em Inglês e também em Espanhol.
