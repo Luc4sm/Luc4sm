@@ -22,10 +22,12 @@ Atualmente trabalho como Desenvolvedor PHP Senior, cuidando de alguns projetos p
 Sou formado como Técnico em Informática pelo Instituto Federal de São Paulo
   e estou matriculado no curso de Sistemas de Informação da Universidade de São Paulo(EACH)
   
-Quase 5 anos no mercado de Desenvolvimento de Software.
+7 anos no mercado de Desenvolvimento de Software.
+
+Já desenvolvi projetos em C/C++, Java, Python, NodeJS e PHP.
 
 Tenho bastante experiência com PHP usando Laravel!
   
 Nesse momento estou buscando me envolver em projetos inovadores e que tenham a ver com empreendedorismo :p 
 
-Além do Português Brasileiro como língua materna, consigo me comunicar em Inglês e também em Espanhol.
+Além do PT-BR como língua materna, tenho nível avançado em Inglês e Espanhol.
