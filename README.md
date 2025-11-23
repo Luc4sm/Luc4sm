@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 
 Desde cedo cria de tecnologia!  Me considero curioso e explorador.
 
-Atualmente trabalho como Desenvolvedor PHP Senior, cuidando de alguns projetos para a BlueCoding.
-
 Sou formado como Técnico em Informática pelo Instituto Federal de São Paulo
-  e estou matriculado no curso de Sistemas de Informação da Universidade de São Paulo(EACH)
+  e cursei Sistemas de Informação na Universidade de São Paulo(EACH)
   
-7 anos no mercado de Desenvolvimento de Software.
+9 anos no mercado de Desenvolvimento de Software.
 
-Já desenvolvi projetos em C/C++, Java, Python, NodeJS e PHP.
+Já desenvolvi projetos em PHP, Python, e NodeJS
 
 Tenho bastante experiência com PHP usando Laravel!
   
