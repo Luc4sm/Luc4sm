@@ -12,16 +12,13 @@ I worked for tech companies in BR and US, on agile teams managing differents typ
 
 ---
 
-Desde cedo cria de tecnologia, sem num estilo curioso-explorador.
+Desde cedo cria de tecnologia, sempre num estilo curioso-explorador.
 
 Sou formado como Técnico em Informática pelo Instituto Federal de São Paulo
-  cursei Sistemas de Informação na Universidade de São Paulo(EACH)
+  e cheguei a cursar Sistemas de Informação na Universidade de São Paulo(EACH)
 
-  e hoje estou estudando Turismo na Unviersidade Federal de Minas Gerais
-
-
-  
-9 anos no mercado de Desenvolvimento de Software.
+  Hoje estou estudando Turismo na Unviersidade Federal de Minas Gerais,
+    mas trabalho há 9 anos no mercado de Desenvolvimento de Software.
 
 Eu aprendi programação usando C e Java, enquanto fazia o técnico.
 
@@ -29,6 +26,6 @@ Mas hoje minhas principais linguagens são PHP e Python.
 
 Tenho bastante experiência com PHP usando Laravel!
   
-Nesse momento estou buscando me envolver em projetos que utilizem
+Nesse momento estou buscando me envolver em projetos que envolvam Turismo e Tecnologia, preferencialmente num contexto de impacto social.
 
-Além do PT-BR como língua materna, tenho nível avançado em Inglês e Espanhol.
+Além do PT-BR como língua materna, tenho nível avançado em Inglês e intermediário em Espanhol.
