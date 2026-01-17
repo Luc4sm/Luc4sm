@@ -4,11 +4,11 @@ born in São Paulo, living in Belo Horizonte, Brazil 🇧🇷
 
 I worked for tech companies in BR and US, on agile teams managing differents types of platforms and sites
 
-* 🔭 I’m currently working as a freelancer in tech
-* 🌱 I’m currently learning about Tourism
-* 👯 I’m looking to collaborate on innovative projects that mix Tourism and Technology with social impact purpose
-* 📫 How to reach me: @luc4sm around the web
-* 😄 Pronouns: he/him
+I’m currently working as a freelancer in tech
+I’m currently learning about Tourism
+I’m looking to collaborate on innovative projects that mix Tourism and Technology with social impact purpose
+How to reach me: @luc4sm around the web
+
 
 ---
 
